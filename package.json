@@ -1,0 +1,25 @@
+{
+  "name": "campaign-dapp",
+  "version": "1.0.0",
+  "description": "Crowdfunding platform using blockchain technologies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daniellara/campaign-dapp.git"
+  },
+  "keywords": [
+    "Solidity",
+    "Ethereum",
+    "Dapp",
+    "Crowfunding"
+  ],
+  "author": "Daniel Lara <daniel.lara.diezma@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/daniellara/campaign-dapp/issues"
+  },
+  "homepage": "https://github.com/daniellara/campaign-dapp#readme"
+}
