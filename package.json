@@ -23,10 +23,10 @@
   },
   "homepage": "https://github.com/daniellara/campaign-dapp#readme",
   "dependencies": {
-    "fs-extra": "^7.0.1",
-    "ganache-cli": "^6.2.5",
-    "mocha": "^5.2.0",
-    "solc": "^0.5.2",
-    "web3": "^1.0.0-beta.35"
+    "fs-extra": "7.0.1",
+    "ganache-cli": "6.2.5",
+    "mocha": "5.2.0",
+    "solc": "0.5.2",
+    "web3": "1.0.0-beta.35"
   }
 }
